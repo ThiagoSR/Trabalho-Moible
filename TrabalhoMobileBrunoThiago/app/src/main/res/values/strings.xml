@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabalho Mobile</string>
+    <string name="trabalho_titulo">Calculo IMC</string>
+    <string name="trabalho_aluno1">Bruno Silva Daniel</string>
+    <string name="trabalho_aluno2">Thiago Spindola Rossi</string>
+    <string name="trabalho_valor1">Altura</string>
+    <string name="trabalho_valor2">Peso</string>
+    <string name="trabalho_botao">Calcular</string>
+</resources>

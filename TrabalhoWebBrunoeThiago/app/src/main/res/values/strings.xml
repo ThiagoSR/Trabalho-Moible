@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrabalhoWebBrunoeThiago</string>
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Fechar</string>
+    <string name="nav_header_title">Trabalho soluções mobile</string>
+    <string name="nav_header_subtitle">Bruno Silva Daniel e Thiago Spindola Rossi</string>
+    <string name="nav_header_desc">Calculadora IMC</string>
+
+    <string name="menu_home">Home</string>
+</resources>
